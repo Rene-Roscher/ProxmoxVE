@@ -26,8 +26,7 @@
 
     "require": {
         "php": ">=5.5",
-        "lib-curl": "*",
-        "guzzlehttp/guzzle": "~6.0"
+        "lib-curl": "*"
     },
 
     "require-dev": {
